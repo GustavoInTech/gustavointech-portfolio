@@ -16,6 +16,6 @@ Bem-vindo ao meu portfolio pessoal! Aqui mostro meus projetos, habilidades e jor
 
 ## Deploy
 
-Hospedado no Vercel: [https://gustavointech-portfolio.vercel.app/](https://gustavointech-portfolio.vercel.app/)
+Hospedado no Vercel: [https://gustavointech-portfolio.vercel.app/](Website Profissional)
 
 © 2025 Gustavo Rodrigues Ribeiro. Veja mais no [LinkedIn](https://www.linkedin.com/in/gustavointech/).
